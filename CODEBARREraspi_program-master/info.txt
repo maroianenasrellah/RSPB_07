@@ -1,0 +1,10 @@
+maroiane.nasrellah1994@outlook.com
+
+sudo bash superscript
+
+sudo nano ~/.config/lxsession/LXDE-pi/autostart
+@lxterminal
+
+#sudo nano /etc/xdg/lxsession/LXDE/autostart
+
+lxterminal
